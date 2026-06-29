@@ -30,7 +30,15 @@ pip install -r requirements.txt
 -   pandas
 -   pyhton
 
+## How to Run:
+- Download the repository
+- Open terminal
+- Navigate to the project folder
+- Run:
 
+  python sales_analysis.py
+
+  
 ## Project Structure
 ```
 Sales_Data_Analysis/
