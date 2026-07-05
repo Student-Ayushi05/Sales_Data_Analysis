@@ -22,7 +22,9 @@ The main objectives of this project are:
 
 
 ## Installation
-
+open the command prompt.
+navigate to the project folder.
+bash```
 pip install -r requirements.txt
 
 
