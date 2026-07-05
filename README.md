@@ -24,9 +24,7 @@ The main objectives of this project are:
 ## Installation
 1. Open the command prompt.
 
-
 2. Navigate to the project folder.
-
 
 3. bash```
  
